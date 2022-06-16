@@ -1,0 +1,16 @@
+
+.student-signup-container {
+    height: 100vh;
+    display: flex;
+    justify-content: center;
+    align-items: center;  
+
+}
+
+.student-signup-inputs {
+    display: flex;
+    flex-direction: column;
+    border: 1px solid black;
+    padding: 1px 100px;
+    border-radius: 20px;
+}
